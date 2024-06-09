@@ -1,6 +1,6 @@
 ## Hi, I'm Izzy 👋
 
-- 🔭 Aspiring Front-End/Web Developer
+- 🔭 Front-End/Web Developer
 - 🌱 I’m currently learning Vue.js and PHP
 - 💬 Studied Computer Science at Cardiff University
 - 📫 Email: learsiotni@gmail.com
