@@ -3,7 +3,7 @@
 - 🔭 Front-End/Web Developer
 - 🌱 I’m currently learning Vue.js and PHP
 - 💬 Studied Computer Science at Cardiff University
-- 📫 Email: learsiotni@gmail.com
+- 📫 Email: izzylabarinto@gmail.com
 
 # Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
