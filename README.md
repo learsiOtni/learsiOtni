@@ -2,7 +2,6 @@
 
 - 🔭 Front-End/Web Developer
 - 🌱 I’m currently learning Vue.js and PHP
-- 💬 Studied Computer Science at Cardiff University
 - 📫 Email: izzylabarinto@gmail.com
 
 # Tech Stack
